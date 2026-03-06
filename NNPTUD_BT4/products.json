@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt Blue",
+    "price": 25.99,
+    "categoryId": 7,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:34.000Z",
+    "updatedAt": "2026-02-05T16:51:34.000Z"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt Red",
+    "price": 25.99,
+    "categoryId": 7,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:35.000Z",
+    "updatedAt": "2026-02-05T16:51:35.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Dell",
+    "price": 999.99,
+    "categoryId": 8,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:36.000Z",
+    "updatedAt": "2026-02-05T16:51:36.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "categoryId": 8,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:37.000Z",
+    "updatedAt": "2026-02-05T16:51:37.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Office Chair",
+    "price": 199.99,
+    "categoryId": 9,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:38.000Z",
+    "updatedAt": "2026-02-05T16:51:38.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Nike Shoes",
+    "price": 89.99,
+    "categoryId": 10,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:39.000Z",
+    "updatedAt": "2026-02-05T16:51:39.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Adidas Running",
+    "price": 95.99,
+    "categoryId": 10,
+    "image": "https://via.placeholder.com/300",
+    "creationAt": "2026-02-05T16:51:40.000Z",
+    "updatedAt": "2026-02-05T16:51:40.000Z"
+  }
+]
